@@ -1,4 +1,4 @@
-# [cite_start]Hi there, I'm DOSSEH NADOR 👋 [cite: 1]
+# Hi there, I'm DOSSEH NADOR 👋 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cybersecurity-Information%20Assurance-red?style=for-the-badge&logo=generic" />
