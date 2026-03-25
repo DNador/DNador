@@ -1,54 +1,68 @@
-# Hi there, I'm DOSSEH NADOR 👋
+# 🛡️ DOSSEH NADOR | Cybersecurity & Information Assurance
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cybersecurity-Information%20Assurance-red?style=for-the-badge&logo=generic" />
-  <img src="https://img.shields.io/badge/IT_Service_Management-ITIL4-blue?style=for-the-badge&logo=generic" />
-  <img src="https://img.shields.io/badge/Active_Directory-Security-orange?style=for-the-badge&logo=microsoft-active-directory" />
+<p align="center">
+  <img src="https://img.shields.io/badge/B.S._Cybersecurity-WGU-red?style=for-the-badge&logo=education" />
+  <img src="https://img.shields.io/badge/Security_Ops-Active_Directory-blue?style=for-the-badge&logo=microsoft-active-directory" />
+  <img src="https://img.shields.io/badge/Pentesting-CySA%2B_%7C_PenTest%2B-orange?style=for-the-badge&logo=comptia" />
 </p>
-
-### 🛡️ About Me
-I am a customer-focused IT professional with a B.S. in Cybersecurity and Information Assurance. I bridge the gap between complex infrastructure support and proactive threat mitigation. I focus on securing enterprise environments through hardened identity management, vulnerability assessment, and incident response.
-
-- 🔭 **Current Focus:** Transitioning from L1-L3 technical support into dedicated SOC/Penetration Testing roles.
-- ⚡ **The Advantage:** Years of hands-on experience in high-demand environments managing Active Directory, Google Workspace, and Microsoft 365.
-- 🎨 **Philosophy:** Bringing a sharp eye for detail and professional documentation to every security audit and technical report.
 
 ---
 
-### 🎓 Education & Certifications
+### 👤 Professional Summary
+I am a customer-focused IT professional with a B.S. in Cybersecurity and Information Assurance and over four years of hands-on experience in technical support and infrastructure management. My background is rooted in front-line IT service delivery, where I have managed complex environments for global organizations and educational institutions. 
+
+I am currently pivoting my deep understanding of L1-L3 support, identity management, and incident resolution into a dedicated security role. I specialize in bridging the gap between operational uptime and a robust defensive posture.
+
+---
+
+### 🛠️ Technical Ecosystem
+| Domain | Proficiency |
+| :--- | :--- |
+| **Security & Compliance** | Vulnerability Assessment, MFA Deployment, Threat Mitigation, CySA+, PenTest+ |
+| **Identity & Access (IAM)** | Active Directory management, Google Workspace, Microsoft 365, User Onboarding |
+| **Network & Infrastructure** | Device Imaging, IP Phone configuration, Remote Support, Network+, Linux Foundations |
+| **Operations & GRC** | ITIL4 Framework, Root Cause Analysis, Incident Management, Project+ |
+
+---
+
+### 🎓 Education & Elite Certifications
 - **B.S. Cybersecurity and Information Assurance** | Western Governors University
 - **A.S. Computer Science** | Delaware County Community College
 
-**Security Stack:**
+#### 📜 Certification Stack
 - **CompTIA:** CySA+, PenTest+, Security+, Network+, A+, Project+
 - **ISC2:** Systems Security Certified Professional (SSCP)
-- **Specialized:** Axelos ITIL4 Foundation, Linux Foundations
+- **Axelos:** ITIL4 Foundation
+- **Linux:** Linux Foundations
 
 ---
 
-### 💻 Technical Skills
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Security Operations** | Vulnerability Assessment, MFA Deployment, Threat Mitigation |
-| **Infrastructure** | Active Directory, Google Workplace, Microsoft 365, Device Imaging |
-| **Administration** | L1-L3 Technical Support, Remote Support, Root Cause Analysis |
-| **Reporting** | Incident Management, QA Documentation, Stakeholder Communication |
+### 💼 Professional Journey
+- **IT Service Desk Analyst @ DLL Financial Solutions:** Delivering front-line support and conducting root cause analysis to enhance service reliability for internal members across the organization.
+- **IT Support Technician @ William Penn School District:** Supported Active Directory and Google Workspace while leading the deployment of MFA solutions to enhance district-wide security.
+- **IT Support Associate II @ Amazon:** Managed high-demand technical support for hardware, software, and network infrastructure, ensuring 24/7 service continuity.
+- **Quality Assurance Specialist @ Amazon:** Leveraged data analysis and technical reporting to communicate incident resolutions and process improvements to stakeholders.
 
 ---
 
-### 🚀 Featured Security Projects
-*Note: I am currently populating this section with live lab environments.*
+### 🧪 Security Lab Roadmap (Active Projects)
+*These projects demonstrate my ability to apply theoretical cybersecurity knowledge to real-world enterprise infrastructure.*
 
-* **Active Directory Hardening Lab** (Coming Soon)
-    * Virtualizing a domain environment to implement GPO-based hardening and MFA integration.
-* **Web Application Vulnerability Report** (Coming Soon)
-    * Conducting deep-dive penetration testing on e-commerce frameworks to identify OWASP Top 10 risks.
-* **Log Analysis & Triage Scripting** (Coming Soon)
-    * Using Python/PowerShell to automate the detection of unauthorized access attempts in enterprise logs.
+1. **Enterprise Hardening (Active Directory):**
+   - **Goal:** Build a virtualized forest to implement the Principle of Least Privilege (PoLP) and GPO-based hardening.
+   - **Focus:** Securing the identity perimeter and preventing lateral movement.
+
+2. **Offensive Security Assessment (Penetration Testing):**
+   - **Goal:** Perform a full-cycle penetration test on a simulated e-commerce environment.
+   - **Focus:** Exploiting OWASP Top 10 vulnerabilities and providing actionable remediation reports.
+
+3. **Log Aggregation & Monitoring (SIEM):**
+   - **Goal:** Set up a centralized logging system to monitor for brute-force attacks and unauthorized access.
+   - **Focus:** Incident response automation and proactive threat hunting.
 
 ---
 
-### 📫 Let's Connect
-- 📧 **Email:** noelnador@yahoo.com
-- 📍 **Location:** Upper Darby, PA
-- 💼 **LinkedIn:** [Insert Your Link Here]
+### 📫 Connect with Me
+- **Email:** [noelnador@yahoo.com](mailto:noelnador@yahoo.com)
+- **Location:** Upper Darby, PA
+- **LinkedIn:** [Dosseh Nador](https://www.linkedin.com/in/dosseh-noel-nador-7937a11aa/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4bIqgUyBQreuaygZNZQpXg%3D%3D)
